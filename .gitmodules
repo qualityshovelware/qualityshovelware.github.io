@@ -1,0 +1,3 @@
+[submodule "basejump"]
+	path = basejump
+	url = https://github.com/qualityshovelware/basejump.git
